@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93036604998",
+    "project_id": "nuevo-e4ca2",
+    "storage_bucket": "nuevo-e4ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93036604998:android:024b3297d231b3ee672447",
+        "android_client_info": {
+          "package_name": "com.example.barra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHccn9YAwqoCMrcczZmafpRqzkNu_DnB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
